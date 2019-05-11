@@ -1,7 +1,0 @@
-caeJap1.fa -->14
-caePd2.fa -->14
-caeRem.fa -->14
-cb3.fa -->14
-tricas2.fa -->14
-p_pacificus -->14
-
